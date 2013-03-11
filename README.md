@@ -1,0 +1,4 @@
+NSCollectionViewAnimationBug
+============================
+
+NSCollectionView Animation Bug
